@@ -38,14 +38,16 @@
 <img width="40" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/>&nbsp;
 <img width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/>&nbsp;
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="Nextjs" alt="Nextjs " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="LESS" alt="LESS " width="40" height="40"/>&nbsp;
 <img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>&nbsp;
 <img width="40" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img width="40" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" alt="Vim" title="Vim"/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 
-<!-- Biome, Drizzle, CVA, react-hook-form -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" title="Nextjs" alt="Nextjs " width="40" height="40"/>&nbsp;
+
+<!-- Biome, Drizzle, CVA, react-hook-form,  -->
 </div> 
 
 <!--
