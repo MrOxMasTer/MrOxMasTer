@@ -49,7 +49,7 @@
 <img width="40" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/>&nbsp;
 
 
-<!-- Biome, Drizzle, CVA, react-hook-form, oh-my-posh, telegrapf -->
+<!-- Biome, Drizzle, CVA, react-hook-form, oh-my-posh, telegrapf, RTK Query, React Query -->
 </div> 
 </div> 
 <!--
