@@ -45,7 +45,7 @@
 <img width="40" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" alt="Vim" title="Vim"/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 
-<!-- Biome, Drizzle, CVA -->
+<!-- Biome, Drizzle, CVA, react-hook-form -->
 </div> 
 
 <!--
